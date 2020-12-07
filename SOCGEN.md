@@ -24,6 +24,7 @@ However, the process of contact tracing takes a large network of public health f
 <iframe title="Figure 1. Reported United States COVID-19 Cases " aria-label="Split Bars" id="datawrapper-chart-QKX0Q" src="https://datawrapper.dwcdn.net/QKX0Q/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="7708"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
 ### Solutions 
 The solution to this laborious and flawed process is the integration of digital technology into contact tracing efforts in order to automate the data collection process and alleviate the government’s limited resources (Dar et al., 2020, p. 2-3). More specifically, the introduction of mobile phones into the contract tracing process can prove to be a vital tool in order to assist with slowing down the spread of COVID-19 (Oliver et al., 2020, p.1). By using mobile phone data, it is possible to create newer models that may improve accuracy of COVID - 19 spread. The usage of mobile phones will be able to more accurately track COVID - 19 cases and provide more information of positive individuals and any possible exposed connections in their network. 
 
