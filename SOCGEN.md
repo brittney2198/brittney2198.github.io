@@ -51,24 +51,25 @@ Referencing figures 2, 3, and 4, data was retrieved from the Kaiser Family Found
 Furthermore, the benefits of mobile phones could last long after the pandemic if proven successful. After the pandemic ends, mobile phone data can be used to analyze the impact of various interventions on the progression of the disease and cost benefit analysis of various quarantine restrictions (Oliver et al., 2020, p.3). If the integration of mobile phone technology and analysis assists with the pandemic and proves successful then it could usher in other future initiatives of digital technology to tackle other major global health problems (Ting et al.,  2020, p. 460). It could also increase general public and governmental acceptance of technology into healthcare and possibly address smaller scale, but still relevant issues such as chronic disease (Ting et al.,  2020, p. 461). 
 
 ### References 
-1. Anglemyer, A., Moore, T. H., Parker, L., Chambers, T., Grady, A., Chiu, K., Parry, M., Wilczynska, M., Flemyng, E., & Bero, L. (2020). Digital contact tracing technologies in epidemics: A rapid review. Cochrane Database of Systematic Reviews, 8. https://doi.org/10.1002/14651858.CD013699
+`<1. Anglemyer, A., Moore, T. H., Parker, L., Chambers, T., Grady, A., Chiu, K., Parry, M., Wilczynska, M., Flemyng, E., & Bero, L. (2020). Digital contact tracing technologies in epidemics: A rapid review. Cochrane Database of Systematic Reviews, 8. https://doi.org/10.1002/14651858.CD013699>`
 
-2. Brandom, R. (2020, September 1). Apple and Google announce new automatic app system to track COVID exposures. The Verge. https://www.theverge.com/2020/9/1/21410281/apple-google-coronavirus-exposure-notification-contact-tracing-app-system
+`<2. Brandom, R. (2020, September 1). Apple and Google announce new automatic app system to track COVID exposures. The Verge. https://www.theverge.com/2020/9/1/21410281/apple-google-coronavirus-exposure-notification-contact-tracing-app-system>`
 
-3. CDC. (2020, March 28). COVID-19 Cases, Deaths, and Trends in the US | CDC COVID Data Tracker. Centers for Disease Control and Prevention. https://covid.cdc.gov/covid-data-tracker
+`<3. CDC. (2020, March 28). COVID-19 Cases, Deaths, and Trends in the US | CDC COVID Data Tracker. Centers for Disease Control and Prevention. https://covid.cdc.gov/covid-data-tracker>`
 
-4. Dar, A. B., Lone, A. H., Zahoor, S., Khan, A. A., & Naaz, R. (2020). Applicability of mobile contact tracing in fighting pandemic (COVID-19): Issues, challenges and solutions. Computer Science Review, 38, 100307. https://doi.org/10.1016/j.cosrev.2020.100307
+`<4. Dar, A. B., Lone, A. H., Zahoor, S., Khan, A. A., & Naaz, R. (2020). Applicability of mobile contact tracing in fighting pandemic (COVID-19): Issues, challenges and solutions. Computer Science Review, 38, 100307. https://doi.org/10.1016/j.cosrev.2020.100307>`
 
-5. Fahey, R. A., & Hino, A. (2020). COVID-19, digital privacy, and the social limits on data-focused public health responses. International Journal of Information Management, 55, 102181. https://doi.org/10.1016/j.ijinfomgt.2020.102181
+`<5. Fahey, R. A., & Hino, A. (2020). COVID-19, digital privacy, and the social limits on data-focused public health responses. International Journal of Information Management, 55, 102181. https://doi.org/10.1016/j.ijinfomgt.2020.102181>`
 
-6. Hsiang, S., Allen, D., Annan-Phan, S., Bell, K., Bolliger, I., Chong, T., Druckenmiller, H., Huang, L. Y., Hultgren, A., Krasovich, E., Lau, P., Lee, J., Rolf, E., Tseng, J., & Wu, T. (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. Nature, 584(7820), 262–267. https://doi.org/10.1038/s41586-020-2404-8
+`<6. Hsiang, S., Allen, D., Annan-Phan, S., Bell, K., Bolliger, I., Chong, T., Druckenmiller, H., Huang, L. Y., Hultgren, A., Krasovich, E., Lau, P., Lee, J., Rolf, E., Tseng, J., & Wu, T. (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. Nature, 584(7820), 262–267. https://doi.org/10.1038/s41586-020-2404-8>`
 
-7. KFF - State COVID-19 Dashboard. (n.d.). Tableau Software. Retrieved November 21, 2020, from https://public.tableau.com/views/KFF-StateCoronavirusTracker-UpdateAAv11_KOEdits_20200423_15881952183820/Overview?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no
+`<7. KFF - State COVID-19 Dashboard. (n.d.). Tableau Software. Retrieved November 21, 2020, from
+https://public.tableau.com/views/KFF-StateCoronavirusTracker-UpdateAAv11_KOEdits_20200423_15881952183820/Overview?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no>`
 
-8. Lau, H., Khosrawipour, T., Kocbach, P., Ichii, H., Bania, J., & Khosrawipour, V. (2020). Evaluating the massive underreporting and undertesting of COVID-19 cases in multiple global epicenters. Pulmonology. https://doi.org/10.1016/j.pulmoe.2020.05.015
+`<8. Lau, H., Khosrawipour, T., Kocbach, P., Ichii, H., Bania, J., & Khosrawipour, V. (2020). Evaluating the massive underreporting and undertesting of COVID-19 cases in multiple global epicenters. Pulmonology. https://doi.org/10.1016/j.pulmoe.2020.05.015>`
 
-9. NW, 1615 L. St, Suite 800Washington, & Inquiries, D. 20036USA202-419-4300 | M.-857-8562 | F.-419-4372 | M. (n.d.). American Trends Panel Wave 49. Pew Research Center: Internet, Science & Tech. Retrieved November 21, 2020, from https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-49/
+`<9. NW, 1615 L. St, Suite 800Washington, & Inquiries, D. 20036USA202-419-4300 | M.-857-8562 | F.-419-4372 | M. (n.d.). American Trends Panel Wave 49. Pew Research Center: Internet, Science & Tech. Retrieved November 21, 2020, from https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-49/>`
 
-10. Oliver, N., Lepri, B., Sterly, H., Lambiotte, R., Deletaille, S., Nadai, M. D., Letouzé, E., Salah, A. A., Benjamins, R., Cattuto, C., Colizza, V., Cordes, N. de, Fraiberger, S. P., Koebe, T., Lehmann, S., Murillo, J., Pentland, A., Pham, P. N., Pivetta, F., … Vinck, P. (2020). Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle. Science Advances, 6(23), eabc0764. https://doi.org/10.1126/sciadv.abc0764
+`<10. Oliver, N., Lepri, B., Sterly, H., Lambiotte, R., Deletaille, S., Nadai, M. D., Letouzé, E., Salah, A. A., Benjamins, R., Cattuto, C., Colizza, V., Cordes, N. de, Fraiberger, S. P., Koebe, T., Lehmann, S., Murillo, J., Pentland, A., Pham, P. N., Pivetta, F., … Vinck, P. (2020). Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle. Science Advances, 6(23), eabc0764. https://doi.org/10.1126/sciadv.abc0764>`
 
-11. Ting, D. S. W., Carin, L., Dzau, V., & Wong, T. Y. (2020). Digital technology and COVID-19. Nature Medicine, 26(4), 459–461. https://doi.org/10.1038/s41591-020-0824-5
+`<11. Ting, D. S. W., Carin, L., Dzau, V., & Wong, T. Y. (2020). Digital technology and COVID-19. Nature Medicine, 26(4), 459–461. https://doi.org/10.1038/s41591-020-0824-5>`
