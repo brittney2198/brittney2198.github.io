@@ -1,9 +1,6 @@
 ---
 title: SOCGEN 180
 ---
-
-[HOME](README.md)
-
 SOCGEN 180: Data in and out of a Pandemic 
 =====
 
