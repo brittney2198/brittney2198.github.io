@@ -13,7 +13,8 @@ A little about me:
 - My interests lie at the intersection of healthcare and technology 
 - I will just park my car 2 blocks away if I see there's only parallel parking spaces and I will die on this hill. 
 
+
 ![](git_pic.jpg)
 
 
-Thank you for viewing and you can email me at [](brittney2198@ucla.edu or via my [Linkedin](linkedin.com/in/brittney-l-304852b4) for questions or to give me any feedback! 
+Thank you for viewing and you can [email](brittney2198@ucla.edu) me or contact me via my [Linkedin](linkedin.com/in/brittney-l-304852b4) for questions or to give me any feedback! 
