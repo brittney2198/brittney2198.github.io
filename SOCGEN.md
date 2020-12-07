@@ -3,6 +3,7 @@ title: This will be used as the title-tag of the page head
 ---
 
 [HOME](README.md)
+
 SOCGEN 180: Data in and out of a Pandemic 
 =====
 
