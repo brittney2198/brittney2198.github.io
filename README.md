@@ -17,4 +17,4 @@ A little about me:
 ![](git_pic.jpg)
 
 
-Thank you for viewing and you can email me @brittney2198@ucla.edu me or contact me via my [Linkedin](https://www.linkedin.com/in/brittney-l-304852b4/) for questions or to give me any feedback! 
+Thank you for viewing and you can email me @brittney2198@ucla.edu or contact me via my [Linkedin](https://www.linkedin.com/in/brittney-l-304852b4/) for questions or to give me any feedback! 
