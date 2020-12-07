@@ -63,8 +63,7 @@ Furthermore, the benefits of mobile phones could last long after the pandemic if
 
 `6. Hsiang, S., Allen, D., Annan-Phan, S., Bell, K., Bolliger, I., Chong, T., Druckenmiller, H., Huang, L. Y., Hultgren, A., Krasovich, E., Lau, P., Lee, J., Rolf, E., Tseng, J., & Wu, T. (2020). The effect of large-scale anti-contagion policies on the COVID-19 pandemic. Nature, 584(7820), 262–267. https://doi.org/10.1038/s41586-020-2404-8`
 
-`7. KFF - State COVID-19 Dashboard. (n.d.). Tableau Software. Retrieved November 21, 2020, from
-https://public.tableau.com/views/KFF-StateCoronavirusTracker-UpdateAAv11_KOEdits_20200423_15881952183820/Overview?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no`
+`7. KFF - State COVID-19 Dashboard. (n.d.). Tableau Software. Retrieved November 21, 2020, from https://public.tableau.com/views/KFF-StateCoronavirusTracker-UpdateAAv11_KOEdits_20200423_15881952183820/Overview?:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no`
 
 `8. Lau, H., Khosrawipour, T., Kocbach, P., Ichii, H., Bania, J., & Khosrawipour, V. (2020). Evaluating the massive underreporting and undertesting of COVID-19 cases in multiple global epicenters. Pulmonology. https://doi.org/10.1016/j.pulmoe.2020.05.015`
 
