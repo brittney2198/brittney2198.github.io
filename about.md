@@ -1,6 +1,12 @@
 ---
-layout: jekyll-theme-minimal
---- 
+title: This will be used as the title-tag of the page head
+---
+
+hello
+=====
+
+**You are here!**
+
 SOCGEN 180 
 
 Markdown
