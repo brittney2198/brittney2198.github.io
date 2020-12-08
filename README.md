@@ -2,7 +2,7 @@
 
 ## Projects 
 
-[SOCGEN 180 FINAL](SOCGEN.md) 
+[The Value Proposition of Mobile Phone Usage during the COVID-19 Pandemic](SOCGEN.md) 
 
 ## About 
 
