@@ -1,11 +1,8 @@
 ---
 title: SOCGEN 180
 ---
-SOCGEN 180: Data in and out of a Pandemic 
+The Value Proposition of Mobile Phone Usage during the COVID-19 Pandemic 
 =====
-
-**FALL 2020**
-Final Project 
 
 ### Introduction 
 In early 2020, the world started to see the development of a pandemic like none has ever witnessed before and from this came a global state of emergency. Out of Wuhan, China came an unknown disease established as severe respiratory syndrome coronavirus 2 (SARS - CoV - 2), otherwise called COVID - 19. However, due to the unprecedented nature of this disease, multiple countries all over the world, including the United States, have had issues with underreporting and undertesting COVID - 19 cases (Lau et al., 2020, p.2 ). Issues with misrepresentation of COVID - 19 data in the United States can play a vital role in  influencing vital decisions regarding healthcare and possibly lead to higher mortality rates (Lau et al., 2020, p.2 ). 
