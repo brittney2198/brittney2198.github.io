@@ -45,22 +45,22 @@ The current contact tracing method is not equipped to deal with the COVID-19 cri
 
 
 ### References 
-1. Braithwaite, I., Callender, T., Bullock, M., & Aldridge, R. W. (2020). Automated and partly automated contact tracing: A systematic review to inform the control of COVID-19. The Lancet Digital Health, 2(11), e607–e621. https://doi.org/10.1016/S2589-7500(20)30184-9
+`1. Braithwaite, I., Callender, T., Bullock, M., & Aldridge, R. W. (2020). Automated and partly automated contact tracing: A systematic review to inform the control of COVID-19. The Lancet Digital Health, 2(11), e607–e621. https://doi.org/10.1016/S2589-7500(20)30184-9`
 
-2. CDC. (2020, March 28). COVID-19 Cases, Deaths, and Trends in the US | CDC COVID Data Tracker. Centers for Disease Control and Prevention. https://covid.cdc.gov/covid-data-tracker
+`2. CDC. (2020, March 28). COVID-19 Cases, Deaths, and Trends in the US | CDC COVID Data Tracker. Centers for Disease Control and Prevention. https://covid.cdc.gov/covid-data-tracker`
 
-3. Clark, E., Chiao, E. Y., & Amirian, E. S. (2020). Why Contact Tracing Efforts Have Failed to Curb Coronavirus Disease 2019 (COVID-19) Transmission in Much of the United States. Clinical Infectious Diseases, ciaa1155. https://doi.org/10.1093/cid/ciaa1155
+`3. Clark, E., Chiao, E. Y., & Amirian, E. S. (2020). Why Contact Tracing Efforts Have Failed to Curb Coronavirus Disease 2019 (COVID-19) Transmission in Much of the United States. Clinical Infectious Diseases, ciaa1155. https://doi.org/10.1093/cid/ciaa1155`
 
-4. COVID-19: How South Korea prevailed while the United States failed. (n.d.). ScienceDaily. Retrieved December 15, 2020, from https://www.sciencedaily.com/releases/2020/08/200820102431.htm
+`4. COVID-19: How South Korea prevailed while the United States failed. (n.d.). ScienceDaily. Retrieved December 15, 2020, from https://www.sciencedaily.com/releases/2020/08/200820102431.htm`
 
-5. Dar, A. B., Lone, A. H., Zahoor, S., Khan, A. A., & Naaz, R. (2020). Applicability of mobile contact tracing in fighting pandemic (COVID-19): Issues, challenges and solutions. Computer Science Review, 38, 100307. https://doi.org/10.1016/j.cosrev.2020.100307
+`5. Dar, A. B., Lone, A. H., Zahoor, S., Khan, A. A., & Naaz, R. (2020). Applicability of mobile contact tracing in fighting pandemic (COVID-19): Issues, challenges and solutions. Computer Science Review, 38, 100307. https://doi.org/10.1016/j.cosrev.2020.100307`
 
-6. Fahey, R. A., & Hino, A. (2020). COVID-19, digital privacy, and the social limits on data-focused public health responses. International Journal of Information Management, 55, 102181. https://doi.org/10.1016/j.ijinfomgt.2020.102181
+`6. Fahey, R. A., & Hino, A. (2020). COVID-19, digital privacy, and the social limits on data-focused public health responses. International Journal of Information Management, 55, 102181. https://doi.org/10.1016/j.ijinfomgt.2020.102181`
 
-7. June 17, J. H. M. 2020 J.-433 P. O. F., & 2020 | 10.12788/Jhm.3474. (2020). Trust in Public Health Is Essential Amid the COVID-19 Pandemic. Journal of Hospital Medicine, 15(7). https://doi.org/10.12788/jhm.3474
+`7. June 17, J. H. M. 2020 J.-433 P. O. F., & 2020 | 10.12788/Jhm.3474. (2020). Trust in Public Health Is Essential Amid the COVID-19 Pandemic. Journal of Hospital Medicine, 15(7). https://doi.org/10.12788/jhm.3474`
 
-8. NW, 1615 L. St, Suite 800Washington, & Inquiries, D. 20036USA202-419-4300 | M.-857-8562 | F.-419-4372 | M. (n.d.). American Trends Panel Wave 49. Pew Research Center: Internet, Science & Tech. Retrieved November 21, 2020, from https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-49/
+`8. NW, 1615 L. St, Suite 800Washington, & Inquiries, D. 20036USA202-419-4300 | M.-857-8562 | F.-419-4372 | M. (n.d.). American Trends Panel Wave 49. Pew Research Center: Internet, Science & Tech. Retrieved November 21, 2020, from https://www.pewresearch.org/internet/dataset/american-trends-panel-wave-49/`
 
-9. Oliver, N., Lepri, B., Sterly, H., Lambiotte, R., Deletaille, S., Nadai, M. D., Letouzé, E., Salah, A. A., Benjamins, R., Cattuto, C., Colizza, V., Cordes, N. de, Fraiberger, S. P., Koebe, T., Lehmann, S., Murillo, J., Pentland, A., Pham, P. N., Pivetta, F., … Vinck, P. (2020). Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle. Science Advances, 6(23), eabc0764. https://doi.org/10.1126/sciadv.abc0764
+`9. Oliver, N., Lepri, B., Sterly, H., Lambiotte, R., Deletaille, S., Nadai, M. D., Letouzé, E., Salah, A. A., Benjamins, R., Cattuto, C., Colizza, V., Cordes, N. de, Fraiberger, S. P., Koebe, T., Lehmann, S., Murillo, J., Pentland, A., Pham, P. N., Pivetta, F., … Vinck, P. (2020). Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle. Science Advances, 6(23), eabc0764. https://doi.org/10.1126/sciadv.abc0764`
 
-10. Ting, D. S. W., Carin, L., Dzau, V., & Wong, T. Y. (2020). Digital technology and COVID-19. Nature Medicine, 26(4), 459–461. https://doi.org/10.1038/s41591-020-0824-5
+`10. Ting, D. S. W., Carin, L., Dzau, V., & Wong, T. Y. (2020). Digital technology and COVID-19. Nature Medicine, 26(4), 459–461. https://doi.org/10.1038/s41591-020-0824-5`
